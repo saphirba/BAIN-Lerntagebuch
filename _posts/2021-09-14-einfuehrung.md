@@ -11,7 +11,7 @@ Das SunRise Ausleihe Modul der Bibliothekssoftware SISIS-SunRise verfügt neben 
 
 Sehr nützlich für die tägliche Arbeit ist auch der SISIS-SunRise Katalog. Er übernimmt die Verwaltung und Wiedergabe aller bibliografischen Daten und eignet sich sehr gut für die Bestandspflege. Da unsere Bibliothek nur noch wenig Ressourcen für die manuelle Titeldatenerfassung zur Verfügung hat ist es sehr praktisch, dass mit Hilfe des SunRise Katalog auch Fremddaten übernommen werden können, um die Katalogisate zu erstellen.
 
-Da ich bei meiner Arbeit jeweils nur mit der Benutzeroberfläche zu tun habe, bin ich sehr gespannt was sich alles hinter diesen Modulen verbirgt. Wie sind verschiedene Module miteinander verknüpft? In welcher Form findet der Datenaustausch statt? Was für Protokolle werden verwendet? Wie funktioniert die Schnittstelle zu verschiedenen Verbundsystemen?
+Da ich bei meiner Arbeit jeweils nur mit der Benutzeroberfläche zu tun habe, bin ich sehr gespannt was sich alles hinter diesen Modulen verbirgt. Ich erhoffe mir nach diesem Modul die Hintergründe einer Bibliothekssoftware besser verstehen beziehungsweise nachvollziehen zu können. Wie sind verschiedene Module miteinander verknüpft? In welcher Form findet der Datenaustausch statt? Was für Protokolle werden verwendet? Wie funktionieren die Schnittstellen zu verschiedenen Verbundsystemen?
 
 Mal schauen was in den künftigen Lerneinheiten so auf mich zu kommt…
 
