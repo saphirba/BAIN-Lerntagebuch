@@ -1,7 +1,8 @@
 ---
-title: "Wo bin ich gestartet?"
+title: "Einführungsartikel - Wo bin ich gestartet?"
 date: 2021-09-15
 ---
+Dieser erste Beitrag beschreibt, mit welchen Erfahrungen ich in den Kurs eingestiegen bin sowie welche Erwartungen ich an den Kursinhalt habe und welche Interessen ich mitbringe.
 
 Ich heisse Jennifer Amoroso und bin 24 Jahre alt. Ich studiere Information Science mit dem Schwerpunkt Web- und Usability Engineering. Im September 2021 bin ich ins 7. Semester und gleichzeitig auch in mein letztes Jahr an der Fachhochschule Graubünden gestartet. Neben dem Teilzeitstudium „Information Science“, arbeite ich seit dem Jahr 2016 für die Winterthurer Bibliotheken. Ich war bereits für verschiedene Tätigkeitsbereiche zuständig, wie zum Beispiel für die Betreuung des Makerspaces, für die Durchführung von Klassenbesuchen und für die technische Hilfestellung für unsere Onlineangebote. Am besten gefällt mir der Makerspace, da sich dort geniale Geräte befinden wie zum Beispiel ein mehrfarbiger 3D-Drucker, ein Laser-Cutter, ein Schneideplotter und diverse Angebote aus dem Bereich Robotik.
 
