@@ -1,5 +1,5 @@
 ---
-title: "Abschlussartikel - Was habe ich (nicht) gelernt?"
+title: "Abschlussartikel - Was habe ich gelernt?"
 date: 2022-01-17
 ---
 
