@@ -19,7 +19,8 @@ Abschliessend lässt sich sagen, dass ich sehr viel neues gelernt habe und nun a
  
 Nun heisst es Abschied nehmen vom Lerntagebuch und fleissig weiter lernen für die kommenden Semesterprüfungen. 
 
-<iframe src="https://giphy.com/embed/m9eG1qVjvN56H0MXt8" width="295" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baby-bye-slide-m9eG1qVjvN56H0MXt8">via GIPHY</a></p>
+![winkendes Mädchen](https://giphy.com/gifs/baby-bye-slide-m9eG1qVjvN56H0MXt8.gif)
+
 
 
 
